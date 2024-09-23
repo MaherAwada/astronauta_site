@@ -1,0 +1,271 @@
+body {
+    background-image: url(fundocinza.png);
+}
+
+.estrelinha {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 55px;
+    top: 64px;
+    border-radius: 50px;
+    justify-content: flex-start;
+    background: #FFFFFF;
+}
+
+.borrado {
+    position: absolute;
+    width: 830px;
+    height: 96px;
+    left: 1090px;
+    top: 40px;
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(40.7742px);
+}
+
+.linha {
+    position: absolute;
+    width: 930px;
+    height: 1px;
+    left: 210px;
+    top: 88px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+
+.botoesdecima {
+    position: absolute;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly;
+    width: 542px;
+    height: 19px;
+    left: 1180px;
+    top: 69px;
+}
+
+.botaohome{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.botaodestination{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.botaocrew{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.botaotechnology{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.marcador{
+
+    position: absolute;
+width: 140px;
+height: 3px;
+right: 220px;
+top: 133px;
+
+background: #FFFFFF;
+}
+
+.pickyourdestination {
+    position: absolute;
+    height: 34px;
+    left: 14.14%;
+    right: 1.57%;
+    top: 190px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 4.725px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.cordonumero {
+    position: absolute;
+    height: 34px;
+    left: 195px;
+    right: 1.57%;
+    top: 190px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 4.725px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+
+.botao1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 199px;
+    top: 370px;
+    bottom: 1%;
+    border-radius: 100px;
+    mix-blend-mode: normal;
+   
+    border: 1px solid #FFFFFF;
+    background: white;
+}
+
+.botao2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 199px;
+    top: 490px;
+    bottom: 1%;
+    border-radius: 100px;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+    border: 1px solid #FFFFFF;
+}
+
+.botao3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 199px;
+    top: 610px;
+    bottom: 1%;
+    border-radius: 100px;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+    border: 1px solid #FFFFFF;
+}
+
+.conteudobotao1 {
+    position: absolute;
+    height: 37px;
+    left: 230px;
+    top: 360px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: black;
+}
+
+.conteudobotao2 {
+    position: absolute;
+    height: 37px;
+    left: 230px;
+    top: 480px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.conteudobotao3 {
+    position: absolute;
+    height: 37px;
+    left: 230px;
+    top: 600px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.terminology {
+    position: absolute;
+    height: 19px;
+    left: 400px;
+    right: 66.22%;
+    top: 360px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 2.7px;
+    color: #D0D6F9;
+}
+
+.titulospaceport {
+    position: absolute;
+    height: 64px;
+    left: 400px;
+    right: 30.41%;
+    top: 350px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+
+.conteudospace {
+    position: absolute;
+    height: 160px;
+    left: 400px;
+    right: 30.41%;
+    top: 480px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #D0D6F9;
+}
+
+.imagemspacevehicle {
+    position: absolute;
+    width: 550px;
+    height: 540px;
+    right: 1px;
+    top: 240px;
+    background: url(Image.png);
+    mix-blend-mode: screen;
+}

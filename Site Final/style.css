@@ -1,0 +1,224 @@
+body{
+
+    background-image: url("fundohome.jpg");
+    
+}
+
+
+
+.estrelinha{
+
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 55px;
+top: 64px;
+border-radius: 50px;
+justify-content: flex-start;
+
+background: #FFFFFF;
+
+}
+
+.borrado{
+
+    
+    
+    position: absolute;
+    width: 830px;
+    height: 96px;
+    left: 1090px;
+    top: 40px;
+    
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(40.7742px);
+
+
+}
+
+.linha{
+
+    position: absolute;
+    width: 930px;
+    height: 1px;
+    left: 210px;
+    top: 88px;
+    
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+
+}
+
+.botoesdecima{
+
+    position: absolute;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly;
+width: 542px;
+height: 19px;
+left: 1180px;
+top: 69px;
+margin: none;
+
+}
+
+.botaohome{
+
+    border: none;
+    background: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+
+}
+
+.botaodestination{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+
+}
+
+.botaocrew{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+
+}
+
+.botaotechnology{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+
+}
+
+
+.marcador{
+
+    position: absolute;
+width: 100px;
+height: 3px;
+right: 620px;
+top: 133px;
+
+background: #FFFFFF;
+}
+
+.explore{
+    display: flex;
+    position: absolute;
+    width: 274px;
+    height: 274px;
+    left: 1460px;
+    top: 495px;
+    border-radius: 150px;
+    border: none;
+
+}
+ 
+.space{
+position: absolute;
+color: #FFFFFF;
+width: 700px;
+height: 500px;
+left: 165px;
+top: 387px;
+}
+
+.palavraspace{
+
+position: absolute;
+height: 172px;
+left: 110px;
+right: 1.22%;
+top: 250px;
+
+font-family: 'Bellefair';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 172px;
+
+
+
+color: white;
+}
+
+.subtitulo{
+
+ position: absolute;
+height: 34px;
+left: 110px;
+right: 1.22%;
+top: 310px;
+
+font-family: 'Barlow Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+
+letter-spacing: 4.725px;
+
+color: #D0D6F9;
+
+}
+
+.texto{
+
+    position: absolute;
+height: 128px;
+left: 130px;
+right: 1.22%;
+top: 600px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+/* or 178% */
+
+
+color: #D0D6F9;
+
+}
+
+.conteudobotaogrande{
+
+    position: absolute;
+height: 37px;
+
+right: 240px;
+top: 580px;
+
+font-family: 'Bellefair';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+
+letter-spacing: 2px;
+
+color: #0B0D17;
+}
+
+
+

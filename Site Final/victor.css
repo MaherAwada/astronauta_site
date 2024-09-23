@@ -1,0 +1,247 @@
+body {
+    background-image: url(fundocinza.png);
+}
+
+.estrelinha {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 55px;
+    top: 64px;
+    border-radius: 50px;
+    justify-content: flex-start;
+    background: #FFFFFF;
+}
+
+.borrado {
+    position: absolute;
+    width: 830px;
+    height: 96px;
+    left: 1090px;
+    top: 40px;
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(40.7742px);
+}
+
+.linha {
+    position: absolute;
+    width: 930px;
+    height: 1px;
+    left: 210px;
+    top: 88px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+
+.botoesdecima {
+    position: absolute;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-evenly;
+    width: 542px;
+    height: 19px;
+    left: 1180px;
+    top: 69px;
+}
+
+.botaohome{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.botaodestination{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.botaocrew{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.botaotechnology{
+
+    margin: none;
+    color: #FFFFFF;
+font-family: 'Barlow Condensed';
+font-style: normal;
+border: none;
+background: none;
+}
+
+.marcador{
+
+    position: absolute;
+width: 100px;
+height: 3px;
+right: 370px;
+top: 133px;
+
+background: #FFFFFF;
+}
+
+.pickyourdestination {
+    position: absolute;
+    height: 34px;
+    left: 14.14%;
+    right: 1.57%;
+    top: 190px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 4.725px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.cordonumero {
+    position: absolute;
+    height: 34px;
+    left: 195px;
+    right: 1.57%;
+    top: 190px;
+    font-family: 'Barlow Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 4.725px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+
+.comander {
+    position: absolute;
+    width: 214px;
+    height: 37px;
+    left: 199px;
+    top: 370px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.douglas {
+    position: absolute;
+    width: 460px;
+    height: 55px;
+    left: 199px;
+    top: 412px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.hurley {
+    position: absolute;
+    width: 460px;
+    height: 55px;
+    left: 420px;
+    top: 412px;
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 64px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.texto {
+    position: absolute;
+    width: 444px;
+    height: 128px;
+    left: 199px;
+    top: 543px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #D0D6F9;
+}
+
+.botao1 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 199px;
+    top: 751px;
+    border-radius: 100px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.17;
+}
+
+.botao2 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 229px;
+    top: 751px;
+    border-radius: 100px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.17;
+}
+
+.botao3 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 259px;
+    top: 751px;
+    border-radius: 100px;
+    background: #FFFFFF;
+    
+}
+
+.botao4 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 289px;
+    top: 751px;
+    border-radius: 100px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.17;
+}
+
+.imagemvictor {
+    position: absolute;
+    width: 568.07px;
+    height: 712px;
+    left: 1200px;
+    top: 225px;
+    background: url(Image.png);
+}
